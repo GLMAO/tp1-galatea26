@@ -2,6 +2,8 @@
 
 
 ********************************TP GL - Design Pattern Observer***********************************************************************
+BEN-MAHAMMED Radia  Spécialité:RSD
+
 
 *** Réalisations***
 Horloge avec TimerService et injection de dépendance
